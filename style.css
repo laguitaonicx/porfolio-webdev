@@ -1,0 +1,56 @@
+body{
+font-family: Arial, sans-serif;
+margin: 0;
+}
+
+ header{
+ text-align:center;
+ padding:40px;
+ }
+
+ nav{
+ text-align: center;
+ padding: 15px;
+ }
+
+ nav a{
+ margin: 10px;
+ }
+
+ main{
+ padding: 20px;
+ }
+
+ section{
+ margin-bottom: 40px;
+ }
+
+ .project-container{
+ display: flex;
+ gap: 20px;
+ }
+
+ .project-card{
+ border: 1px solid black;
+ padding: 20px;
+ width: 200px;
+}
+
+ form{
+ display: flex;
+ flex-direction: column;
+ gap: 10px;
+ }
+
+ input,textarea{
+ padding: 10px;
+ }
+
+ button{
+ padding: 10px;
+ }
+
+ footer{
+ text-align: center;
+ padding: 20px;
+ }
